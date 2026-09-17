@@ -27,7 +27,7 @@ Atuo na manutenção e evolução de sistemas web (PHP, MySQL, JavaScript), com 
 ## GitHub Stats
 
 <div align="center">
-<img height="165" align="center" src="https://github-stats-extended.vercel.app/api?username=TertulianoFre&show_icons=true&theme=default&hide_border=true" alt="Estatísticas do GitHub" />
+<img height="165" align="center" src="https://streak-stats.demolab.com/?user=TertulianoFre&hide_current_streak=true&theme=default&border_radius=6" alt="Total de contribuições" />
 <img height="165" align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=TertulianoFre&layout=compact&hide_border=true" alt="Linguagens mais usadas" />
 </div>
 
