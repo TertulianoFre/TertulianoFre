@@ -6,7 +6,7 @@
 
 </div>
 
-Atuo na manutenção e evolução de sistemas web (PHP, MySQL, JavaScript), com experiência também em automação de processos e desenvolvimento mobile com Flutter. Formado em Ciência da Computação pela UEPB, com vivência prática em ambiente de produção — do código ao suporte ao usuário final.
+Atuo na manutenção e evolução de sistemas web (PHP, MySQL, JavaScript), com experiência também em automação de processos e desenvolvimento mobile com Flutter. Formado em Ciência da Computação pela UEPB, com vivência prática em ambiente de produção, do código ao suporte ao usuário final.
 
 ## Stack
 
